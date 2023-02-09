@@ -1,15 +1,15 @@
-# MyCarousell
+# NavItem
 
 <!-- STORY -->
 
 ## Introduction
 
-MyCarousell is an easy-to-use component.
+NavItem is an easy-to-use component.
 
 ## Usage
 
 ```javascript
-import { MyCarousell } from 'some-package-name';
+import { NavItem } from 'some-package-name';
 ```
 
 ## Example use
@@ -18,7 +18,7 @@ import { MyCarousell } from 'some-package-name';
 const myPage = props => {
   return (
     <main>
-      <MyCarousell />
+      <NavItem />
     </main>
   );
 };
